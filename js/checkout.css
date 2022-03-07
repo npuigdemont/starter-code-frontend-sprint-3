@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+body {
+    font-family: Poppins;
+}
+/*#errorPassword, #errorName, #errorPhone {
+    display: none;
+}
+  input:invalid {
+    border: 2px dashed red;
+    display: inline;
+  }
+  input:invalid#errorPassword {
+    border: 2px dashed red;
+    display: inline;
+  }
+  input:invalid#errorName {
+    border: 2px dashed red;
+    display: inline;
+  }
+  input:invalid#errorPhone {
+    border: 2px dashed red;
+    display: inline;
+  }
+  input:valid {
+    border: 2px green;
+  }
